@@ -1,0 +1,8 @@
+vendor/
+composer/
+dashboard/
+img/
+webalizer/
+applications.html
+bitnami.css
+favicon.ico
